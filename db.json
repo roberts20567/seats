@@ -31,4 +31,20 @@
 	  "type": "balcony",
 	  "status": "available"
 	   }
-   ] }
+   ]
+		,
+	"reserve":
+   [
+	   {
+      "id": 1,
+      "name": "First Seat",
+	  "type": "balcony",
+	  "status": "available"
+	   },
+	   {
+      "id": 2,
+      "name": "Second Seat",
+	  "type": "balcony",
+	  "status": "available"
+	   }
+   ]}
