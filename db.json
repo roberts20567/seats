@@ -1,9 +1,18 @@
 {
 "seats":
-   {
+   [
+	   {
       "id": 1,
       "name": "First Seat",
-	  "type": "balcony",
-	  "status": "available"
-   }
+	  "type": 3,
+	  "status": 0
+	   },
+	   {
+      "id": 2,
+      "name": "Second Seat",
+	  "type": 3,
+	  "status": 0
+	   }
+   ]
+   
 }
