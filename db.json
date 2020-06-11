@@ -47,4 +47,20 @@
 	  "type": "balcony",
 	  "status": "available"
 	   }
+   ]
+		,
+	"confirm":
+   [
+	   {
+      "id": 1,
+      "name": "First Seat",
+	  "type": "balcony",
+	  "status": "available"
+	   },
+	   {
+      "id": 2,
+      "name": "Second Seat",
+	  "type": "balcony",
+	  "status": "available"
+	   }
    ]}
