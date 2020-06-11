@@ -1,0 +1,10 @@
+{
+  "seats": [
+    {
+      "id": 1,
+      "name": "First Seat"
+	  "type": "balcony"
+	  "status": "available"
+    }
+  ],
+}
