@@ -5,14 +5,14 @@
 	   {
       "id": 1,
       "name": "First Seat",
-	  "type": 3,
-	  "status": 0
+	  "type": "balcony",
+	  "status": "available"
 	   },
 	   {
       "id": 2,
       "name": "Second Seat",
-	  "type": 3,
-	  "status": 0
+	  "type": "balcony",
+	  "status": "available"
 	   }
    ] 
 ,
@@ -22,13 +22,13 @@
 	   {
       "id": 1,
       "name": "First Seat",
-	  "type": 3,
-	  "status": 0
+	  "type": "balcony",
+	  "status": "available"
 	   },
 	   {
       "id": 2,
       "name": "Second Seat",
-	  "type": 3,
-	  "status": 0
+	  "type": "balcony",
+	  "status": "available"
 	   }
    ] }
