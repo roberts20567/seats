@@ -1,3 +1,4 @@
+[
 {
 "seats":
    [
@@ -14,5 +15,22 @@
 	  "status": 0
 	   }
    ]
-   
+	},
+	{
+   "all":
+   [
+	   {
+      "id": 1,
+      "name": "First Seat",
+	  "type": 3,
+	  "status": 0
+	   },
+	   {
+      "id": 2,
+      "name": "Second Seat",
+	  "type": 3,
+	  "status": 0
+	   }
+   ]
 }
+]
